@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#hello {
+  color: rgb(125 11 255);
+  border: solid rgb(125 11 255);
+  border-radius: 20px;
+}
+#hello:hover {
+  color: white;
+  background: rgb(125 11 255);
+}
+.about-me {
+  font-weight: bold;
+  text-align: center;
+}
+.profile-pic {
+  border-radius: 50%;
+  text-align: center;
+}
+.about-me2 {
+  background-color: rgb(125 11 255);
+  padding-top: 200px;
+  padding-bottom: 200px;
+  color: white;
+}
+.my-journey {
+  position: relative;
+  bottom: 100px;
+  left: 60px;
+  width: 90%;
+}
+.designer {
+  text-align: center;
+}
